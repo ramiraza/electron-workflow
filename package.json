@@ -1,0 +1,27 @@
+{
+  "name": "gulp-electron-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "electron": "^1.7.10",
+    "gulp": "^4.0.0",
+    "gulp-cli": "^2.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-run-electron": "^3.0.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-typescript": "^3.2.3",
+    "typescript": "^2.6.2"
+  },
+  "dependencies": {
+    "gulp-livereload": "^3.8.1"
+  }
+}
